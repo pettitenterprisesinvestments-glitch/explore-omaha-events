@@ -1,5 +1,78 @@
 {
   "date": "2026-06-18",
-  "total_events": 0,
-  "events": []
+  "total_events": 8,
+  "events": [
+    {
+      "event_name": "Henry Doorly Zoo Summer Camp",
+      "event_date": "2026-06-20",
+      "location": "3701 S 10th St, Omaha, NE 68107",
+      "category": "Community Event",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Hanscom Park Summer Movie Night",
+      "event_date": "2026-06-22",
+      "location": "Hanscom Park, Omaha",
+      "category": "Family Entertainment",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Creighton Summer Upward Basketball",
+      "event_date": "2026-06-25",
+      "location": "Creighton University, Omaha",
+      "category": "Sports",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": true,
+      "is_free": false
+    },
+    {
+      "event_name": "Papillion Parks & Rec Summer Art Classes",
+      "event_date": "2026-06-28",
+      "location": "Papillion Community Center",
+      "category": "Arts & Culture",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50 Great",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Christ Community Church VBS 2026",
+      "event_date": "2026-07-06",
+      "location": "1215 S 138th St, Omaha, NE",
+      "category": "Church/Faith",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "Omaha Children's Museum Discovery Day",
+      "event_date": "2026-07-01",
+      "location": "500 S 20th St, Omaha, NE",
+      "category": "Family Entertainment",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Fontenelle Forest Nature Walk & Picnic",
+      "event_date": "2026-06-27",
+      "location": "1111 N Bellevue Blvd, Bellevue, NE",
+      "category": "Outdoor Activity",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Storyland Theater \u2014 'Cinderella' Summer Production",
+      "event_date": "2026-07-10",
+      "location": "Omaha Community Playhouse, 6915 Cass St",
+      "category": "Arts & Culture",
+      "family_rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent",
+      "is_faith_based": false,
+      "is_free": false
+    }
+  ]
 }
