@@ -1,0 +1,26 @@
+{
+  "archived_on": "2026-06-18",
+  "count": 1,
+  "events": [
+    {
+      "age_range": null,
+      "date_pulled": null,
+      "cost": null,
+      "is_faith_based": null,
+      "event_date": "2026-05-01",
+      "is_free": true,
+      "event_name": "TEST EXPIRED EVENT - DELETE ME",
+      "description": "This is a test expired event to verify cleanup works.",
+      "location": "Test Location",
+      "category": "Test",
+      "source_url": null,
+      "family_rating": null,
+      "id": "6a33550098db7da66e76ba74",
+      "created_date": "2026-06-18T02:16:32.074000",
+      "updated_date": "2026-06-18T02:16:32.074000",
+      "created_by_id": "6a30e2ceb9fd58ccb6e4f592",
+      "created_by": "pettit.enterprises.investments@gmail.com",
+      "is_sample": false
+    }
+  ]
+}
