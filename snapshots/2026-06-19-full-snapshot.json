@@ -1,0 +1,55 @@
+{
+  "snapshot_date": "2026-06-19",
+  "note": "Full events DB snapshot \u2014 image_url field added, all 50 events updated with matched images",
+  "ad_products": [
+    {
+      "name": "Standard Event Listing",
+      "price_usd": 29,
+      "category": "Event Listing",
+      "stripe_payment_link": "https://buy.stripe.com/3cI6oG2Xm0Q8eMH9qpg7e0L",
+      "sort_order": 1
+    },
+    {
+      "name": "Premium Event Listing",
+      "price_usd": 49,
+      "category": "Event Listing",
+      "stripe_payment_link": "https://buy.stripe.com/6oU00ibtS6as33ZdGFg7e0M",
+      "sort_order": 2
+    },
+    {
+      "name": "Sponsored Article",
+      "price_usd": 197,
+      "category": "Sponsored Content",
+      "stripe_payment_link": "https://buy.stripe.com/9B67sK9lKaqI5c71XXg7e0N",
+      "sort_order": 3
+    },
+    {
+      "name": "Magazine Half-Page Ad",
+      "price_usd": 297,
+      "category": "Magazine Ad",
+      "stripe_payment_link": "https://buy.stripe.com/8x27sKgOccyQ8ojeKJg7e0O",
+      "sort_order": 4
+    },
+    {
+      "name": "Magazine Full-Page Ad",
+      "price_usd": 497,
+      "category": "Magazine Ad",
+      "stripe_payment_link": "https://buy.stripe.com/28EcN455ubuMgUPfONg7e0P",
+      "sort_order": 5
+    },
+    {
+      "name": "Magazine Back Cover",
+      "price_usd": 747,
+      "category": "Magazine Ad",
+      "stripe_payment_link": "https://buy.stripe.com/14AaEW7dCeGY6gbdGFg7e0Q",
+      "sort_order": 6
+    },
+    {
+      "name": "Magazine Front Cover Feature",
+      "price_usd": 997,
+      "category": "Magazine Ad",
+      "stripe_payment_link": "https://buy.stripe.com/28EfZg1Ti0Q89sn1XXg7e0R",
+      "sort_order": 7
+    }
+  ]
+}
