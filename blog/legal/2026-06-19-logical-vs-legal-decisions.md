@@ -121,7 +121,7 @@ If you have been meaning to get serious about protecting your business and your 
 
 For a resource that gives you access to qualified attorneys for business and personal matters, document review, demand letters, estate planning, and more — without paying traditional hourly rates — visit the link below.
 
-*[YOUR LEGALSHIELD SIGNUP LINK — INSERT HERE]*
+*https://allanpettit.legalshieldassociate.com/*
 
 You built something worth protecting. Make sure it is protected.
 
