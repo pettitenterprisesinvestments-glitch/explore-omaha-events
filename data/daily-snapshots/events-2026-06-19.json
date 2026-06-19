@@ -1,0 +1,68 @@
+{
+  "snapshot_date": "2026-06-19T02:00:00",
+  "total_events": 46,
+  "new_events_added": 10,
+  "sources": ["visitomaha.com", "familyfuninomaha.com", "omahazoo.com", "ocm.org"],
+  "latest_additions": [
+    {
+      "event_name": "Mary Poppins at Hawks Mainstage Theatre",
+      "event_date": "2026-06-19 to 2026-06-28",
+      "age_range": "4+",
+      "category": "Arts & Culture"
+    },
+    {
+      "event_name": "Dinosaurs Around the World: Passport to Pangea",
+      "event_date": "2026-05-30 to 2026-09-07",
+      "age_range": "3-12",
+      "category": "Educational Activity"
+    },
+    {
+      "event_name": "Heroes & Villains: The Art of the Disney Costume",
+      "event_date": "2026-05-23 to 2026-10-25",
+      "age_range": "All ages",
+      "category": "Arts & Culture"
+    },
+    {
+      "event_name": "Strawberry Festival at Nelson Produce Farm",
+      "event_date": "2026-06-05 to 2026-06-21",
+      "age_range": "All ages",
+      "category": "Community Event"
+    },
+    {
+      "event_name": "Late Nights at the Zoo (Family Edition)",
+      "event_date": "2026-07-18",
+      "age_range": "All ages",
+      "category": "Family Entertainment"
+    },
+    {
+      "event_name": "Ciao Bambini Exhibition at Omaha Children's Museum",
+      "event_date": "2026-06-30 to 2026-08-31",
+      "age_range": "0-12",
+      "category": "Family Entertainment"
+    },
+    {
+      "event_name": "Father's Day Car Show at Strategic Air Command Museum",
+      "event_date": "2026-06-20 to 2026-06-21",
+      "age_range": "All ages",
+      "category": "Community Event"
+    },
+    {
+      "event_name": "Spotlight on Lakeside Community Event",
+      "event_date": "2026-06-20",
+      "age_range": "All ages",
+      "category": "Community Event"
+    },
+    {
+      "event_name": "Future of Rock Festival — Young Musicians Showcase",
+      "event_date": "2026-06-16",
+      "age_range": "All ages",
+      "category": "Arts & Culture"
+    },
+    {
+      "event_name": "Omaha Children's Museum 50th Birthday Celebration",
+      "event_date": "2026-06-08",
+      "age_range": "0-12",
+      "category": "Family Entertainment"
+    }
+  ]
+}
