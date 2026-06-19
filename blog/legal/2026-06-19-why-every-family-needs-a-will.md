@@ -102,7 +102,7 @@ If the cost of traditional estate planning has kept you from taking this step, t
 
 The link below connects you to a legal protection resource that includes estate planning — will preparation, living will, healthcare power of attorney, and financial power of attorney — as part of a monthly membership, without the traditional hourly billing.
 
-*[YOUR LEGALSHIELD SIGNUP LINK — INSERT HERE]*
+*https://allanpettit.legalshieldassociate.com/*
 
 Your family deserves to be protected. This is one of the most direct ways to do it.
 
