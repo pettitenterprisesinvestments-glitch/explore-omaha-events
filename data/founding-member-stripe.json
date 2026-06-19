@@ -1,0 +1,16 @@
+{
+  "updated": "2026-06-19",
+  "monthly": {
+    "price": 99,
+    "interval": "month",
+    "stripe_link": "https://buy.stripe.com/7sYcN469yaqIgUP321g7e0S",
+    "stripe_price_id": "price_1TjxmSBWp0stsvv4DEMQ07Gk"
+  },
+  "annual": {
+    "price": 997,
+    "interval": "year",
+    "stripe_link": "https://buy.stripe.com/bJe6oGdC0aqI5c79qpg7e0T",
+    "stripe_price_id": "price_1TjxmTBWp0stsvv4etl7yIYs"
+  },
+  "product_id": "prod_UjQdUXkIKRgYBe"
+}
