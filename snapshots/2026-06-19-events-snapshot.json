@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-06-19",
+  "automation_run": "Daily Omaha Family Events Puller",
+  "total_events": 50,
+  "description": "Daily snapshot of family-friendly, faith-based, and conservative-appropriate events in Omaha, Nebraska.",
+  "events_summary": {
+    "total_count": 50,
+    "free_events": 18,
+    "faith_based_events": 15,
+    "upcoming_this_week": [
+      "Juneteenth JoyFest 2026 (June 19-21)",
+      "Mary Poppins at Hawks Mainstage Theatre (June 19-28)",
+      "Father's Day Car Show (June 20-21)",
+      "Strawberry Festival continues (until June 21)"
+    ]
+  },
+  "data_source": "Automated web search and database compilation",
+  "last_updated": "2026-06-19T08:02:00Z"
+}
