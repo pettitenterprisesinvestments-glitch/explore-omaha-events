@@ -104,7 +104,7 @@ The next step is a letter.
 
 For access to a legal protection resource that includes attorney-drafted demand letters and collection letters as part of a monthly membership, visit the link below.
 
-*[YOUR LEGALSHIELD SIGNUP LINK — INSERT HERE]*
+*https://allanpettit.legalshieldassociate.com/*
 
 You earned that money. You have the right to pursue it.
 
