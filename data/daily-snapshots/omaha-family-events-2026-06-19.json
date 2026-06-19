@@ -1,0 +1,80 @@
+{
+  "snapshot_date": "2026-06-19",
+  "snapshot_time": "12:02 UTC",
+  "total_events": 54,
+  "summary": "Daily family-friendly event pull for Omaha, Nebraska. Filters include faith-based, kid-friendly, and conservative-appropriate content for ages 0-12.",
+  "events": [
+    {
+      "event_name": "Bob Kerrey Pedestrian Bridge - Walk & Recreation",
+      "event_date": "2026-01-01 to 2026-12-31",
+      "location": "Bob Kerrey Pedestrian Bridge, Old Market to Council Bluffs, IA",
+      "category": "Outdoor Recreation",
+      "age_range": "All ages",
+      "cost": "Free",
+      "is_free": true,
+      "is_faith_based": false,
+      "family_rating": "⭐⭐⭐⭐⭐ Excellent",
+      "description": "1,000-foot cable-stayed pedestrian bridge connecting Omaha to Council Bluffs with stunning views of the Missouri River. Perfect for family walks, biking, and scenic photos. Safe, accessible outdoor recreation."
+    },
+    {
+      "event_name": "Chirpy's Play Cafe - Indoor Play Center",
+      "event_date": "2026-01-01 to 2026-12-31",
+      "location": "Chirpy's Play Cafe, Multiple Omaha Locations",
+      "category": "Indoor Play",
+      "age_range": "0-5",
+      "cost": "$12-18 per session",
+      "is_free": false,
+      "is_faith_based": false,
+      "family_rating": "⭐⭐⭐⭐ Great",
+      "description": "Soft play indoor facility with climbing structures, slides, ball pits, and sensory activities perfect for toddlers and preschoolers. Climate-controlled space ideal for rainy days and hot summers."
+    },
+    {
+      "event_name": "Kiewit Luminarium - STEM Learning Center",
+      "event_date": "2026-01-01 to 2026-12-31",
+      "location": "Kiewit Luminarium, 10805 Regency Parkway, Omaha, NE",
+      "category": "Educational",
+      "age_range": "All ages (ages 3+)",
+      "cost": "Free with museum admission",
+      "is_free": false,
+      "is_faith_based": false,
+      "family_rating": "⭐⭐⭐⭐⭐ Excellent",
+      "description": "Interactive STEM learning center featuring hands-on science and technology exhibits. Kids explore engineering, physics, light, and innovation through play."
+    },
+    {
+      "event_name": "Strawberry Festival at Nelson Produce Farm",
+      "event_date": "2026-06-05 to 2026-06-21",
+      "location": "Nelson Produce Farm, 10505 N 234 St, Valley, NE",
+      "category": "Seasonal Festival",
+      "age_range": "All ages",
+      "cost": "Free to enter + berry pricing",
+      "is_free": true,
+      "is_faith_based": false,
+      "family_rating": "⭐⭐⭐⭐⭐ Excellent",
+      "description": "Annual strawberry celebration packed with fun activities. Pick your own strawberries, enjoy farm-fresh treats, petting zoo, hayrides, and educational farm activities."
+    },
+    {
+      "event_name": "Rainforest Falls VBS at King of Kings Church",
+      "event_date": "2026-06-22 to 2026-06-26",
+      "location": "King of Kings Church, Northwest Omaha",
+      "category": "Faith-Based",
+      "age_range": "4-12",
+      "cost": "Free",
+      "is_free": true,
+      "is_faith_based": true,
+      "family_rating": "⭐⭐⭐⭐⭐ Excellent",
+      "description": "Week-long Vacation Bible School with daily activities, crafts, songs, and lessons about faith and being rooted in God's love."
+    },
+    {
+      "event_name": "Juneteenth JoyFest 2026",
+      "event_date": "2026-06-19 to 2026-06-21",
+      "location": "Multiple locations across Omaha",
+      "category": "Cultural Festival",
+      "age_range": "All ages",
+      "cost": "Free - $15",
+      "is_free": true,
+      "is_faith_based": false,
+      "family_rating": "⭐⭐⭐⭐⭐ Excellent",
+      "description": "Family-friendly Black Arts & Cultural Festival honoring 161 years of freedom. Features local Black artists, entertainment, live music, food vendors, and kids activities."
+    }
+  ]
+}
