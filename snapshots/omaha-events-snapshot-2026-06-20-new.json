@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-20",
+  "total_events_added": 13,
+  "new_events": [
+    {
+      "event_name": "Community Fishing Events",
+      "event_date": "Ongoing June - September 2026",
+      "location": "Various Omaha Parks & Recreation locations",
+      "category": "Outdoor Activities",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Kids Bowl Free Summer Program",
+      "event_date": "All Summer 2026",
+      "location": "Participating Bowling Alleys (Omaha area)",
+      "category": "Recreation",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Nebraska Great Park Pursuit",
+      "event_date": "Summer 2026",
+      "location": "20+ Sites across Nebraska",
+      "category": "Adventure/Scavenger Hunt",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Nebraska Passport Program",
+      "event_date": "Summer 2026",
+      "location": "Tourist attractions, restaurants, historical places across Nebraska",
+      "category": "Educational/Scavenger Hunt",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Omaha Riverfront Attractions & Activities",
+      "event_date": "Ongoing - All Summer",
+      "location": "Omaha Riverfront Parks",
+      "category": "Outdoor Recreation",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Henry Doorly Zoo & Aquarium Summer Programming",
+      "event_date": "All Summer 2026",
+      "location": "3701 S 10th St, Omaha, NE",
+      "category": "Zoo/Educational",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Omaha Children's Museum Summer Camps",
+      "event_date": "All Summer 2026",
+      "location": "Omaha Children's Museum",
+      "category": "Educational/STEAM",
+      "age_range": "4-12",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Do Space Summer Activities at Omaha Central Library",
+      "event_date": "All Summer 2026",
+      "location": "Omaha Central Library",
+      "category": "Educational/Coding/STEAM",
+      "age_range": "6-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Joslyn Art Museum Family Events",
+      "event_date": "Ongoing - All Summer",
+      "location": "Joslyn Art Museum, 2200 Dodge St, Omaha",
+      "category": "Arts/Cultural",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Bob Kerrey Pedestrian Bridge Walking & Recreation",
+      "event_date": "Ongoing - All Summer",
+      "location": "Bob Kerrey Pedestrian Bridge, Omaha/Council Bluffs",
+      "category": "Outdoor Recreation",
+      "age_range": "0-12",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Camp Fontanelle - Christian Summer Camp",
+      "event_date": "Summer 2026 (dates vary by session)",
+      "location": "Near Omaha, Nebraska",
+      "category": "Summer Camp/Faith-based",
+      "age_range": "4-12",
+      "is_faith_based": true,
+      "is_free": false
+    },
+    {
+      "event_name": "StoneBridge Christian Church Summer Camps & Kids Programs",
+      "event_date": "Summer 2026 (specific dates vary)",
+      "location": "StoneBridge Christian Church, Omaha",
+      "category": "Faith-based/Summer Programs",
+      "age_range": "3-12",
+      "is_faith_based": true,
+      "is_free": false
+    },
+    {
+      "event_name": "Creighton Summer Upward Programs",
+      "event_date": "Summer 2026",
+      "location": "Creighton University, Omaha",
+      "category": "Youth Sports/Athletic Programs",
+      "age_range": "6-12",
+      "is_faith_based": false,
+      "is_free": false
+    }
+  ],
+  "summary": "13 new family-friendly, age-appropriate events added from web search. All filtered for ages 0-12 suitability. Includes outdoor activities, STEAM programs, faith-based camps, and free community events."
+}
