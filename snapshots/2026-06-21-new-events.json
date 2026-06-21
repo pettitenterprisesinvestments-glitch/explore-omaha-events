@@ -1,0 +1,66 @@
+{
+  "date_pulled": "2026-06-21",
+  "total_events": 6,
+  "new_events": [
+    {
+      "event_name": "King of Kings VBS: Rainforest Falls at Millard Campus",
+      "event_date": "June 8-12, 2026",
+      "location": "11615 I St, Omaha, NE 68144",
+      "category": "Summer Camp / VBS",
+      "age_range": "4-12 years",
+      "cost": "Free registration (donations accepted)",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "Kids Bowl Free Summer Program",
+      "event_date": "All Summer 2026",
+      "location": "Multiple bowling alleys in Omaha",
+      "category": "Summer Fun",
+      "age_range": "Kids",
+      "cost": "Free (shoe rental may apply)",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Omaha Parks Spraygrounds & Splash Pads Summer Season",
+      "event_date": "Daily 9 AM - 8 PM, June - Labor Day 2026",
+      "location": "Various parks throughout Omaha",
+      "category": "Summer Fun",
+      "age_range": "All ages",
+      "cost": "Free",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Community Fishing Events - Summer 2026",
+      "event_date": "Ongoing June - September 2026",
+      "location": "Various parks throughout Omaha and surrounding areas",
+      "category": "Outdoor Recreation",
+      "age_range": "All ages",
+      "cost": "Free",
+      "is_faith_based": false,
+      "is_free": true
+    },
+    {
+      "event_name": "Nebraska Passport Program - Summer Scavenger Hunt",
+      "event_date": "All Summer 2026",
+      "location": "Multiple locations across Nebraska",
+      "category": "Educational Adventure",
+      "age_range": "Families with children",
+      "cost": "Free to participate (visit costs vary)",
+      "is_faith_based": false,
+      "is_free": false
+    },
+    {
+      "event_name": "Nebraska Great Park Pursuit - Summer Outdoor Adventure",
+      "event_date": "Summer 2026",
+      "location": "20 parks and outdoor sites across Nebraska",
+      "category": "Outdoor Recreation",
+      "age_range": "Families with children",
+      "cost": "Free to participate",
+      "is_faith_based": false,
+      "is_free": true
+    }
+  ]
+}
