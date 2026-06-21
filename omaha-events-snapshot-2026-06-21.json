@@ -1,0 +1,63 @@
+{
+  "snapshot_date": "2026-06-21T02:00:00Z",
+  "total_events": 83,
+  "new_events_added": 7,
+  "recent_additions": [
+    {
+      "event_name": "Baptism Sunday at King of Kings Fremont",
+      "event_date": "2026-06-21",
+      "location": "King of Kings Fremont Campus, Omaha, NE",
+      "category": "Faith & Family",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "Summer Student Nights at King of Kings Fremont",
+      "event_date": "2026-06-24",
+      "location": "King of Kings Fremont Campus, Omaha, NE",
+      "category": "Youth & Teens",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "Young Adult Party at Ashland Brewing Company",
+      "event_date": "2026-06-24",
+      "location": "Ashland Brewing Company, Omaha, NE",
+      "category": "Community & Networking",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "Summer Park Meet Up at King of Kings Millard",
+      "event_date": "2026-06-25",
+      "location": "King of Kings Millard Playground, Omaha, NE",
+      "category": "Community Gathering",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "National Gathering Livestream Fundraiser",
+      "event_date": "2026-06-25",
+      "location": "King of Kings Millard Campus, Omaha, NE",
+      "category": "Faith & Worship",
+      "is_faith_based": true,
+      "is_free": false
+    },
+    {
+      "event_name": "Irish Psalm Adventure VBS at Life Omaha",
+      "event_date": "2026-06-21",
+      "location": "Life Omaha Church, Omaha, NE",
+      "category": "Faith-Based Programs",
+      "is_faith_based": true,
+      "is_free": true
+    },
+    {
+      "event_name": "Rainforest Falls VBS at King of Kings Northwest Campus",
+      "event_date": "2026-06-22",
+      "location": "King of Kings Northwest Campus, Omaha, NE",
+      "category": "Faith-Based Programs",
+      "is_faith_based": true,
+      "is_free": true
+    }
+  ]
+}
